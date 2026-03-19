@@ -1,6 +1,7 @@
 # 🥔 PotatoServer
 
 Home server projects running on budget hardware. Everything here is built to be lightweight, reliable, and self-hosted.
+Managed by [Jeet Debnath](https://github.com/jxxt)
 
 ## Server Specs
 
