@@ -6,7 +6,7 @@ Home server projects running on budget hardware. Everything here is built to be 
 
 | | |
 |---|---|
-| Machine | Dell Inspiron (old laptop) |
+| Machine | Dell Inspiron 1464 (2014) |
 | CPU | Intel Core i3 — 1st gen |
 | RAM | 4GB |
 | Storage | HDD |
